@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Andrew-Byrd49/README-generator/issues"
   },
-  "homepage": "https://github.com/Andrew-Byrd49/README-generator#readme"
+  "homepage": "https://github.com/Andrew-Byrd49/README-generator#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
