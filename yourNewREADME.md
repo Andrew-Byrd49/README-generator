@@ -1,9 +1,9 @@
-# Portfolio
+# Project Title
 
   ## Description
   *A little about this project.*
 
-  hehe
+  Project Description
   ## Table of Contents
   * [Installation](#installation)
   * [License](#license)
@@ -16,7 +16,7 @@
 
   ## License
 
-  
+  MIT
   
   ---
 
@@ -24,5 +24,5 @@
 
   For any questions, please contact me with the information below:
 
-  GitHub: [@Andrew-Byrd49](https://api.github.com/users/Andrew-Byrd49)
+  GitHub: [@A](https://api.github.com/users/A)
   

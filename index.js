@@ -73,7 +73,7 @@ const questions = [
     },
 
     {
-        type: 'input',
+        type: 'list',
         message: "Please select a license for your project.",
         choices: ["MIT", "GPLv3", "GPL"],
         name: 'license',
