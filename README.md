@@ -6,9 +6,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Future Improvements](#future improvements)
   * [License](#license)
-  * [Questions?](#questions?)
 
   ## Installation
 
