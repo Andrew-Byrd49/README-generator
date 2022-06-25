@@ -1,9 +1,9 @@
-# Portfolio
+# Professional README Generator
 
   ## Description
   *A little about this project.*
 
-  hehe
+  For the first time ever, there's an easier way to build your README. I welcome you to the future.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,13 +13,13 @@
 
     *Steps to istalling and running this project:*
 
-    hehe
+    Clone the repo => in the terminal, run `npm istall` => then `npm install inquirer`
 
     ## Usage
 
     *Instuctions & examples:*
 
-    '
+    The professional README Generator will provide you with a consistant, well formatted README. Just follow all of the prompts in your temrinal, and your new README will be waiting for you in yourNewREADME.md. Enjoy!
 
   ## License
 
