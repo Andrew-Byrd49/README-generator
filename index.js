@@ -13,7 +13,6 @@ const questions = [
         type: 'input',
         message: "What's your GitHub username?",
         name: 'username',
-        default: 'connietran-dev',
         validate: function (answer) {
             if (answer.length < 1) {
                 return console.log('A valid GitHub username is required!')
@@ -26,7 +25,6 @@ const questions = [
         type: 'input',
         message: "What's the name of the github repo you wish to use?",
         name: 'repo',
-        default: 'readme-generator',
         validate: function (answer) {
             if (answer.length < 1) {
                 return console.log('A valid GitHub repo is required!')
@@ -39,7 +37,6 @@ const questions = [
         type: 'input',
         message: "What's the title of your project?",
         name: 'title',
-        default: 'Project Title',
         validate: function (answer) {
             if (answer.length < 1) {
                 return console.log('A project title is required!')
@@ -52,7 +49,6 @@ const questions = [
         type: 'input',
         message: "Add a description to your project.",
         name: 'description',
-        default: 'Project Description',
         validate: function (answer) {
             if (answer.length < 1) {
                 return console.log('A description is required!')
@@ -63,7 +59,7 @@ const questions = [
     {
         type: 'input',
         message: "If applicable, describe the steps a user needs to follow to install your project.",
-        name: 'install',
+        name: 'installation',
     },
 
     {
